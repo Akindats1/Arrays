@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\FreeApp\obj\Debug\net5.0\FreeApp.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\FreeApp\obj\Debug\net5.0\FreeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\FreeApp\obj\Debug\net5.0\FreeApp.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\FreeApp\obj\Debug\net5.0\FreeApp.AssemblyInfo.cs
+C:\Users\user\Desktop\FreeApp\obj\Debug\net5.0\FreeApp.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\FreeApp\bin\Debug\net5.0\FreeApp.exe
+C:\Users\user\Desktop\FreeApp\bin\Debug\net5.0\FreeApp.deps.json
+C:\Users\user\Desktop\FreeApp\bin\Debug\net5.0\FreeApp.runtimeconfig.json
+C:\Users\user\Desktop\FreeApp\bin\Debug\net5.0\FreeApp.runtimeconfig.dev.json
+C:\Users\user\Desktop\FreeApp\bin\Debug\net5.0\FreeApp.dll
+C:\Users\user\Desktop\FreeApp\bin\Debug\net5.0\ref\FreeApp.dll
+C:\Users\user\Desktop\FreeApp\bin\Debug\net5.0\FreeApp.pdb
+C:\Users\user\Desktop\FreeApp\obj\Debug\net5.0\FreeApp.dll
+C:\Users\user\Desktop\FreeApp\obj\Debug\net5.0\ref\FreeApp.dll
+C:\Users\user\Desktop\FreeApp\obj\Debug\net5.0\FreeApp.pdb
+C:\Users\user\Desktop\FreeApp\obj\Debug\net5.0\FreeApp.genruntimeconfig.cache
