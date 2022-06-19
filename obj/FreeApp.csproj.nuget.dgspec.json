@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Desktop\\FreeApp\\FreeApp.csproj": {}
+    "C:\\Users\\user\\desktop\\FreeApp\\FreeApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\FreeApp\\FreeApp.csproj": {
+    "C:\\Users\\user\\desktop\\FreeApp\\FreeApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\FreeApp\\FreeApp.csproj",
+        "projectUniqueName": "C:\\Users\\user\\desktop\\FreeApp\\FreeApp.csproj",
         "projectName": "FreeApp",
-        "projectPath": "C:\\Users\\user\\Desktop\\FreeApp\\FreeApp.csproj",
+        "projectPath": "C:\\Users\\user\\desktop\\FreeApp\\FreeApp.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\FreeApp\\obj\\",
+        "outputPath": "C:\\Users\\user\\desktop\\FreeApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
