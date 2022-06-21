@@ -9,17 +9,16 @@ namespace FreeApp
           
 
 
-           string[] monthsName = {"January" , "February" , "March" , "April" , "May", "June" , "July" , "August" , "September" , "October" , "November" , "December"};
+          string[] monthsName = {"January" , "February" , "March" , "April" , "May", "June" , "July" , "August" , "September" , "October" , "November" , "December"};
            int monthsLength = monthsName.Length;
            Console.WriteLine("Returns the number of months");
            Console.WriteLine($"The number of the months is :{monthsLength} months");
            Console.WriteLine();
 
            Console.WriteLine("Return the rank of the month");
-           for(int index = 0; index < monthsLength; index++)
-            {
-              Console.WriteLine($"{index}.{monthsName[index]}");
-            }
+           
+           Console.WriteLine($"The rank of the month is: {monthsName.Rank} dimension");
+            
             Console.WriteLine();
 
             Console.WriteLine("Reverse the months using loop");
@@ -43,6 +42,10 @@ namespace FreeApp
               Console.WriteLine(months);
              }
              Console.WriteLine();
+              
+
+             Console.WriteLine();
+
              Console.WriteLine("Copy the first six months to another loop");
              string [] firstSixMonths = new string[6];
              Array.Copy(monthsName, 0, firstSixMonths, 0, 6);
@@ -77,7 +80,44 @@ namespace FreeApp
             
             
             
-             
+             /*Console.Write("\n\n");
+             Console.Write("Display the cube of the number\n");  
+             Console.Write("------------------------------");  
+             Console.Write("\n\n"); 
+                
+             Console.Write("Enter number:");
+             int numberInput = int.Parse(Console.ReadLine());
+             for(int i = 0; i <= numberInput; i++)
+             {
+              Console.WriteLine($"The number is {i} and the cube of {i} is: {i*i*i}");
+             }
+
+              Console.Write("\n\n");
+             Console.Write("Display the square of the number\n");  
+             Console.Write("--------------------------------");  
+             Console.Write("\n\n"); 
+                
+             Console.Write("Enter number:");
+             int num = int.Parse(Console.ReadLine());
+             for(int i = 0; i <= num; i++)
+             {
+              Console.WriteLine($"The number is {i} and the square of {i} is: {i*i}");
+             }
+
+
+
+              Console.Write("\n\n");
+             Console.Write("Calculate the factorial of a given number\n");  
+             Console.Write("-----------------------------------------");  
+             Console.Write("\n\n"); 
+               int f = 1;
+             Console.Write("Input the number:");
+             int number = int.Parse(Console.ReadLine());
+             for(int i = 1; i <= number; i++)
+              f = f*i;
+             {
+               Console.WriteLine($"The factorial is {number} is: {f}");
+             }*/
 
 
             
